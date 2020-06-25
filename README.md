@@ -1,2 +1,6 @@
 # okex-aws-postgresql
-receiving data from okex and saving to aws postgresql database 
+
+pulling data from okex exchange api
+saving into aws postgresql (with/without new table)
+
+aws credentials -> db_config/config.json
