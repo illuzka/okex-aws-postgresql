@@ -109,5 +109,4 @@ class DataReceiver:
 
 
 if __name__ == '__main__':
-	data_receiver = DataReceiver()
-	data_receiver.start()
+	DataReceiver().start()
